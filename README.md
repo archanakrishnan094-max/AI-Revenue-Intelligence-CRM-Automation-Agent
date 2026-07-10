@@ -192,7 +192,7 @@ The workflow records CRM activity, including company, contact, deal, lead score,
 
 ## HubSpot Contact Record
 
-*(Insert screenshot)*
+(https://github.com/archanakrishnan094-max/AI-Revenue-Intelligence-CRM-Automation-Agent/blob/main/Screenshots/hubspot-contact.png.png)
 
 ---
 
