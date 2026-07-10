@@ -39,6 +39,18 @@ This project demonstrates practical AI workflow automation for Revenue Operation
 
 ---
 
+## 📥 Workflow Import
+
+The exported n8n workflow is included in this repository.
+
+Workflow file:
+
+- `AI-Revenue-Intelligence-CRM-Automation-Agent-v1.json`
+
+You can import this file directly into your n8n instance to explore or extend the workflow.
+
+---
+
 # 🛠 Tech Stack
 
 * n8n
