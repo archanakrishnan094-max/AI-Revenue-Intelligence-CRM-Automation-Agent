@@ -210,7 +210,7 @@ The workflow records CRM activity, including company, contact, deal, lead score,
 
 ## Google Sheet – CRM & Outreach History
 
-*(Insert screenshot)*
+(https://github.com/archanakrishnan094-max/AI-Revenue-Intelligence-CRM-Automation-Agent/blob/main/Screenshots/crm-history.png.png)
 
 ---
 
