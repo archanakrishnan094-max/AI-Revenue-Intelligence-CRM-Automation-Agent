@@ -174,7 +174,7 @@ The workflow records CRM activity, including company, contact, deal, lead score,
 
 ## AI Research Output
 
-*(Insert screenshot)*
+(https://github.com/archanakrishnan094-max/AI-Revenue-Intelligence-CRM-Automation-Agent/blob/main/Screenshots/ai-research-output.png.png)
 
 ---
 
