@@ -180,7 +180,7 @@ The workflow records CRM activity, including company, contact, deal, lead score,
 
 ## Code Node JSON Output
 
-*(Insert screenshot)*
+(https://github.com/archanakrishnan094-max/AI-Revenue-Intelligence-CRM-Automation-Agent/blob/main/Screenshots/code-node-output.png.png)
 
 ---
 
