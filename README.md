@@ -204,7 +204,7 @@ The workflow records CRM activity, including company, contact, deal, lead score,
 
 ## Google Sheet – AI Research Repository
 
-*(Insert screenshot)*
+(https://github.com/archanakrishnan094-max/AI-Revenue-Intelligence-CRM-Automation-Agent/blob/main/Screenshots/research-repository.png.png)
 
 ---
 
